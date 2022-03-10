@@ -1,0 +1,4 @@
+#!/bin/bash
+git add --all
+git commit -m "This script is for pushing code to repo"
+git push
